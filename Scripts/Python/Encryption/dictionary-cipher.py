@@ -3,7 +3,7 @@
 ## DESCRIPTION:
 # This script is an encryption method that uses a dictionary as a key to encrypt a string. This is not
 # an original method, but a variation to help improve security. In all techniques, the output is an
-# array of locations to where within the dictionary they are held. The start of the encrypted test is
+# array of locations to where within the dictionary they are held. The start of the encrypted text is
 # the formatting used and symbolize how the string was encoded and encrypted. 蘇州碼子 is used as the
 # mark for an encrypted string (a reference to my favorite use of the book cipher) and ends with
 # 蘇州碼子 once the formatting information is done. See bottom of script for the table of info.
