@@ -18,7 +18,7 @@
 ## ARGUMENTS:
 # Args              | Description                                                               | Input     | Defaults
 # ----              | ----                                                                      | ----      | ----
-# -b, --builder     | Want to create a custom dictionary?                                       | BOOLEAN   | False
+# -b, --builder     | Want to create a custom dictionary?                                       | NONE      | False
 # -t, --text        | What is the string to encrypt/decrypt?                                    | STRING    | EMPTY ('')
 # -d, --dictionary  | What dictionary to use? (0 for ASCII, 1 for NUMBER, or path of custom)    | STRING    | '0'
 # -e, --encoding    | What type of encoding to use (0 for raw, 1 for hex, 2 for base64)         | INT       | 0
